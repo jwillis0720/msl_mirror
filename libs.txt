@@ -1,0 +1,4 @@
+MSL_GSL: ftp://ftp.gnu.org/gnu/gsl/gsl-1.16.tar.gz
+MSL_BOOST: http://svn.boost.org/svn/boost/tags/release/Boost_1_54_0
+MSL_GLPK: ftp://ftp.gnu.org/gnu/glpk/glpk-4.52.tar.gz
+MSL_R: 
